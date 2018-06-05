@@ -1,0 +1,1 @@
+A problem solved for a friend taking CS50, and an expansion upon it.
